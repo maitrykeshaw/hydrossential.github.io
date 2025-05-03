@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Hydrossential™ {Official Website} Get $300 OFF + Free Shipping",
+  "short_name":"Hydrossential™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Hydrossential is a serum-based natural skincare supplement that claims to promote and preserve perfect skin.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
